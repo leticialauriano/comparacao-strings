@@ -1,0 +1,14 @@
+C:\Users\letic\ComparacaoStrings\bin\Debug\net7.0\ComparacaoStrings.exe
+C:\Users\letic\ComparacaoStrings\bin\Debug\net7.0\ComparacaoStrings.deps.json
+C:\Users\letic\ComparacaoStrings\bin\Debug\net7.0\ComparacaoStrings.runtimeconfig.json
+C:\Users\letic\ComparacaoStrings\bin\Debug\net7.0\ComparacaoStrings.dll
+C:\Users\letic\ComparacaoStrings\bin\Debug\net7.0\ComparacaoStrings.pdb
+C:\Users\letic\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\letic\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.AssemblyInfoInputs.cache
+C:\Users\letic\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.AssemblyInfo.cs
+C:\Users\letic\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.csproj.CoreCompileInputs.cache
+C:\Users\letic\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.dll
+C:\Users\letic\ComparacaoStrings\obj\Debug\net7.0\refint\ComparacaoStrings.dll
+C:\Users\letic\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.pdb
+C:\Users\letic\ComparacaoStrings\obj\Debug\net7.0\ComparacaoStrings.genruntimeconfig.cache
+C:\Users\letic\ComparacaoStrings\obj\Debug\net7.0\ref\ComparacaoStrings.dll
